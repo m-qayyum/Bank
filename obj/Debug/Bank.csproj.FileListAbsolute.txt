@@ -1,0 +1,7 @@
+E:\Education\Projects\C#\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Education\Projects\C#\Bank\Bank\bin\Debug\Bank.exe
+E:\Education\Projects\C#\Bank\Bank\bin\Debug\Bank.pdb
+E:\Education\Projects\C#\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+E:\Education\Projects\C#\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\Education\Projects\C#\Bank\Bank\obj\Debug\Bank.exe
+E:\Education\Projects\C#\Bank\Bank\obj\Debug\Bank.pdb
